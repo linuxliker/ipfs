@@ -1,4 +1,4 @@
-# IPFS - The Permanent Web
+# IPFS - 去中心化永远在线的Web
 
 [![ipfs](https://img.shields.io/badge/irc-%23ipfs-brightgreen.svg)](https://webchat.freenode.net/?channels=ipfs)
 [![Changelog #204](https://img.shields.io/badge/changelog-%23204-lightgrey.svg)](https://changelog.com/204)
